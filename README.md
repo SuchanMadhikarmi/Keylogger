@@ -18,7 +18,7 @@ This project focuses on creating a basic Python-based keylogger to explore how k
 
 <h2>Project walk-through:</h2>
 
-<p align="center">
+<p>
  Used the pynput library to build the keylogger.  <br/>
 <img src="https://i.imgur.com/MADHhOY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
